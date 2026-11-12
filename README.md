@@ -5,13 +5,13 @@ An independent robotics project by **Noah Wilson**. I built a wearable, cable-dr
 | V1 · Wearable prototype | V2 · Bench mechanism |
 | --- | --- |
 | ![V1 printed thumb with remote servos and cable housings](v1-system.jpg) | ![Assembled V2 thumb on the bench](v2-assembly-03.jpg) |
-| [Wearable close-up](v1-wearable.jpg) · [Photo walkthrough (MP4)](v1-photo-walkthrough.mp4) · [SolidWorks CAD (ZIP)](v1-solidworks-cad.zip) | [Spring-return demo (MP4)](v2-manual-spring-return.mp4) · [STEP CAD (ZIP)](v2-step-cad.zip) · [Assembly render](v2-assembly-cad.jpg) |
+| [Motor test close-up (MP4)](v1-motor-test-1.mp4) · [Motor test wide view (MP4)](v1-motor-test-2.mp4) · [SolidWorks CAD (ZIP)](v1-solidworks-cad.zip) | [Spring-return demo (MP4)](v2-manual-spring-return.mp4) · [STEP CAD (ZIP)](v2-step-cad.zip) · [Assembly render](v2-assembly-cad.jpg) |
 
 ## V1 — Wearable prototype
 
 I adapted an existing printed linkage to my hardware, integrated two remote servos and an ESP32, and built and tested the Bowden tendon transmission. The prototype closed inward. The lateral joint could move mechanically, but its tendon routing did not produce reliable motor-driven side-to-side motion. The digit also tended to fold near the base before reaching the middle of the palm.
 
-The CAD archive contains my two installed hardware-fit edits alongside the earlier reference assembly. That assembly still shows the earlier parts. The [V1 video](v1-photo-walkthrough.mp4) is a captioned photo walkthrough.
+The CAD archive contains my two installed hardware-fit edits alongside the earlier reference assembly. That assembly still shows the earlier parts. The [motor test close-up](v1-motor-test-1.mp4) shows the digit moving alongside the hand, and the [wide view](v1-motor-test-2.mp4) shows the remote servos and tubing. [Wearable close-up photo](v1-wearable.jpg) · [Captioned photo walkthrough](v1-photo-walkthrough.mp4).
 
 ## V2 — Separate yaw and curl
 
